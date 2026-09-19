@@ -1,534 +1,293 @@
-# Sesión especial: Aprender a aprender tecnología
+# Sesión especial: Aprender Java de manera autodidacta
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="64" height="64" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="78" height="78" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="64" height="64" alt="IntelliJ IDEA" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="64" height="64" alt="Eclipse" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" height="64" alt="Git" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" height="64" alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="64" height="64" alt="Markdown" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" height="64" alt="Visual Studio Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Objetivo-Aprender_a_aprender-6C63FF?style=for-the-badge" alt="Aprender a aprender" />
+  <img src="https://img.shields.io/badge/Objetivo-Aprender_Java_por_tu_cuenta-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Aprender Java" />
   <img src="https://img.shields.io/badge/Modalidad-Práctica-2563EB?style=for-the-badge" alt="Modalidad práctica" />
-  <img src="https://img.shields.io/badge/Lenguaje-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Enfoque-Autodidactismo-6C63FF?style=for-the-badge" alt="Autodidactismo" />
 </p>
 
-> **Objetivo de la sesión:** desarrollar una estrategia personal para aprender nuevas tecnologías de manera autónoma, crítica y práctica.
+> **Objetivo de la sesión:** aprender a avanzar en Java cuando encuentras un concepto, error o problema que todavía no sabes resolver.
 
-Esta sesión no busca enseñar una nueva instrucción de Java ni completar una unidad específica del curso. El propósito es aprender **qué hacer cuando aparece una tecnología, herramienta o concepto que todavía no conocemos**.
+Esta sesión no busca enseñarte una instrucción nueva de Java de principio a fin.
 
-En tecnología esto ocurre constantemente. Los lenguajes cambian, aparecen nuevas bibliotecas, herramientas, plataformas y formas de trabajo. Por ello, una de las habilidades más importantes de un desarrollador no es memorizar todo, sino **saber aprender algo nuevo por cuenta propia**.
+Busca algo más importante:
 
----
+> **que aprendas qué hacer cuando Java te presenta algo que todavía no conoces.**
 
-## 1. Ser autodidacta no significa aprender solo
+Hasta ahora has trabajado con temas como variables, tipos de datos, condicionales, ciclos, métodos y orientación a objetos.
 
-Una persona autodidacta no es aquella que nunca pregunta.
-
-Ser autodidacta significa ser capaz de dirigir conscientemente su aprendizaje.
-
-Cuando aparece un problema nuevo, una persona autodidacta intenta responder preguntas como:
-
-- ¿Qué es exactamente lo que no entiendo?
-- ¿Qué necesito aprender primero?
-- ¿Dónde puedo buscar información confiable?
-- ¿Cómo puedo comprobar que realmente entendí?
-- ¿Cuándo debo dejar de investigar por mi cuenta y pedir ayuda?
-
-El aprendizaje autónomo no elimina al profesor, al tutor, a los compañeros ni a la comunidad.
-
-Cambia el papel que tienen.
-
-El tutor deja de ser únicamente quien proporciona respuestas y se convierte también en alguien que ayuda a **desbloquear, orientar y validar el aprendizaje**.
-
----
-
-## 2. El ciclo de aprendizaje autodidacta
-
-Podemos representar el aprendizaje de una tecnología como un ciclo:
+Pero llegará un momento en el que aparecerán conceptos como:
 
 ```text
-NO SÉ HACER ALGO
-      ↓
-IDENTIFICO QUÉ NO ENTIENDO
-      ↓
+ArrayList
+Excepciones
+Interfaces
+Archivos
+Colecciones
+Streams
+Lambdas
+JUnit
+Maven
+Spring
+APIs
+```
+
+No necesitas esperar a que alguien te explique cada uno.
+
+Puedes aprender a investigarlos, probarlos y comprenderlos por tu cuenta.
+
+---
+
+## 1. Aprender Java no significa memorizar Java
+
+Aprender Java no consiste en recordar de memoria cada instrucción.
+
+Puedes olvidar exactamente cómo se escribe un método, un `ArrayList` o una excepción.
+
+Lo importante es saber:
+
+```text
+qué necesitas hacer;
+qué concepto necesitas;
+dónde investigarlo;
+cómo probarlo;
+cómo comprobar si funciona;
+cómo explicarlo después.
+```
+
+Un desarrollador no necesita saber todo.
+
+Necesita saber **cómo avanzar cuando todavía no sabe algo**.
+
+---
+
+## 2. Ser autodidacta no significa aprender solo
+
+Ser autodidacta no significa:
+
+```text
+"No puedo preguntar."
+"No puedo utilizar Internet."
+"No puedo pedir ayuda."
+"Tengo que resolver todo sin apoyo."
+```
+
+Significa que tú tomas un papel activo en tu aprendizaje.
+
+Cuando encuentras algo que no sabes hacer, no te detienes inmediatamente.
+
+Primero intentas comprender el problema.
+
+Por ejemplo:
+
+> "No entiendo Java."
+
+es demasiado general.
+
+Pero:
+
+> "Entiendo `if`, pero no sé cuándo usar `switch`."
+
+ya es algo que puedes investigar.
+
+O:
+
+> "Sé utilizar `while`, pero no entiendo por qué mi menú no termina."
+
+también es investigable.
+
+---
+
+## 3. El ciclo para aprender Java por tu cuenta
+
+Puedes utilizar este ciclo cada vez que aparezca un concepto nuevo:
+
+```text
+QUIERO HACER ALGO EN JAVA
+          ↓
+IDENTIFICO QUÉ NO SÉ
+          ↓
 FORMULO UNA PREGUNTA
-      ↓
-INVESTIGO
-      ↓
-PRUEBO
-      ↓
+          ↓
+BUSCO INFORMACIÓN
+          ↓
+CREO UN EJEMPLO PEQUEÑO
+          ↓
+COMPILO
+          ↓
+OBSERVO EL RESULTADO
+          ↓
 ME EQUIVOCO
-      ↓
+          ↓
 CORRIJO
-      ↓
+          ↓
 LO EXPLICO
-      ↓
-LO APLICO EN ALGO NUEVO
+          ↓
+LO UTILIZO EN OTRO PROBLEMA
 ```
 
 El error no rompe este ciclo.
 
-**El error forma parte del ciclo.**
-
-En programación esto es especialmente evidente: errores de compilación, resultados inesperados y excepciones nos proporcionan información sobre aquello que todavía necesitamos comprender.
+**El error forma parte del aprendizaje de Java.**
 
 ---
 
-## 3. Primera habilidad: saber identificar qué no sabemos
+## 4. Convierte un problema grande en una pregunta pequeña
 
-Existe una gran diferencia entre decir:
+Imagina que quieres crear un sistema para registrar tareas.
 
-> "No entiendo Java."
-
-y decir:
-
-> "Entiendo cómo funciona un `if`, pero todavía no entiendo cuándo conviene utilizar `switch`."
-
-La segunda afirmación permite investigar.
-
-Antes de buscar información, intenta completar esta frase:
-
-> **Quiero hacer __________, pero no entiendo __________.**
-
-Por ejemplo:
+Podrías pensar:
 
 ```text
-Quiero repetir un menú hasta que el usuario seleccione salir,
-pero no entiendo cómo controlar un do-while.
+"No sé hacer este programa."
 ```
 
-Ahora tenemos un problema investigable.
+Eso no ayuda mucho.
+
+Pero puedes dividirlo:
+
+```text
+¿Cómo guardo varios textos?
+¿Cómo agrego un nuevo elemento?
+¿Cómo recorro todos los elementos?
+¿Cómo elimino uno?
+¿Cómo sé cuántos elementos hay?
+```
+
+Ahora cada pregunta puede investigarse por separado.
+
+Muy probablemente descubrirás una clase llamada:
+
+```java
+ArrayList
+```
+
+Eso es aprendizaje autodidacta:
+
+**convertir un problema grande en preguntas pequeñas.**
 
 ---
 
-## 4. Segunda habilidad: aprender a formular preguntas
+## 5. Aprende a buscar Java correctamente
 
-Internet contiene una enorme cantidad de información.
-
-El problema normalmente no es que falte información.
-
-El problema es **encontrar la información correcta**.
-
-Una búsqueda poco específica:
+Una búsqueda poco útil:
 
 ```text
 Java no funciona
 ```
 
-Una búsqueda mejor:
+Una mejor:
+
+```text
+Java do while menu
+```
+
+Todavía mejor:
 
 ```text
 Java do while menu repeat until user selects exit
 ```
 
-Otra búsqueda:
+Otro ejemplo:
 
 ```text
-difference between while and do while Java
+Java Scanner nextLine after nextInt
 ```
 
-Y una todavía más específica:
+Otro:
 
 ```text
-Java do while menu Scanner example
+Java ArrayList add remove size
+```
+
+Otro:
+
+```text
+Java NumberFormatException parseInt
 ```
 
 ### Regla práctica
 
-Una buena búsqueda normalmente contiene:
+Cuando busques información, intenta escribir:
 
 ```text
-Tecnología + concepto + problema
+Java + concepto + problema
 ```
-
-Ejemplos:
-
-```text
-Java ArrayList add elements
-Java Scanner nextLine after nextInt
-Git undo last commit
-CSS center div flexbox
-Python read CSV pandas
-```
-
----
-
-## 5. No todas las fuentes tienen el mismo propósito
-
-Cuando investigamos tecnología podemos encontrar:
-
-- documentación oficial;
-- tutoriales;
-- videos;
-- blogs;
-- foros;
-- repositorios;
-- ejemplos de código;
-- inteligencia artificial.
-
-No debemos utilizar todas estas fuentes de la misma manera.
-
-### Documentación oficial
-
-Es una de las mejores fuentes para confirmar cómo funciona una tecnología.
-
-Puede resultar más difícil de leer al principio, pero normalmente contiene la definición más precisa de una característica.
-
-Ejemplos:
-
-- Java Documentation: <https://docs.oracle.com/en/java/>
-- Git Documentation: <https://git-scm.com/doc>
-- GitHub Docs: <https://docs.github.com/>
-- Python Documentation: <https://docs.python.org/>
-
-Una habilidad importante del desarrollador es aprender progresivamente a consultar documentación.
-
-No es necesario entender toda la documentación.
-
-Debemos aprender a **encontrar la sección que necesitamos**.
-
----
-
-## 6. GitHub no es solamente un lugar para guardar código
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="90" alt="GitHub" />
-</p>
-
-GitHub puede convertirse en una herramienta de aprendizaje.
-
-Un repositorio permite almacenar:
-
-```text
-código
-ejercicios
-experimentos
-errores
-documentación
-notas
-proyectos
-versiones anteriores
-```
-
-También permite observar cómo trabajan otras personas.
-
-Un repositorio puede convertirse en una especie de **bitácora de aprendizaje**.
 
 Por ejemplo:
 
 ```text
-java-learning/
-│
-├── variables/
-├── condicionales/
-├── ciclos/
-├── metodos/
-├── arreglos/
-├── poo/
-│
-└── README.md
+Java String compare ignore case
+Java method return double
+Java for loop ArrayList
+Java inheritance example
+Java NullPointerException
 ```
-
-Cada carpeta puede contener ejercicios y pequeños experimentos.
 
 ---
 
-## 7. Markdown: documentar también es aprender
+## 6. La documentación de Java es una herramienta de trabajo
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="100" alt="Markdown" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="90" alt="Java" />
 </p>
 
-Este archivo está escrito en **Markdown**.
+No necesitas memorizar todas las clases y métodos de Java.
 
-Markdown es un lenguaje de marcado ligero que permite crear documentos utilizando texto plano.
+Para eso existe la documentación.
 
-Por ejemplo:
+Documentación oficial:
 
-```markdown
-# Título
+<https://docs.oracle.com/en/java/>
 
-## Subtítulo
-
-**Texto importante**
-
-- Elemento 1
-- Elemento 2
-
-`código`
-```
-
-GitHub interpreta automáticamente los archivos `.md`.
-
-El archivo más común es:
+Cuando encuentres una clase nueva, puedes investigar:
 
 ```text
-README.md
+¿Qué representa?
+¿Qué constructores tiene?
+¿Qué métodos ofrece?
+¿Qué recibe cada método?
+¿Qué devuelve?
 ```
 
-Un README puede explicar:
+Por ejemplo, si encuentras:
 
-- qué hace un proyecto;
-- qué tecnologías utiliza;
-- cómo ejecutarlo;
-- qué aprendimos;
-- qué problemas encontramos;
-- qué falta implementar.
+```java
+ArrayList<String> nombres = new ArrayList<>();
+```
 
-Escribir documentación obliga a organizar nuestras ideas.
+puedes investigar la clase `ArrayList`.
 
-Por eso:
+No necesitas leer toda la documentación.
 
-> **Si puedes explicar algo con claridad, probablemente lo entiendes mejor.**
+Busca únicamente aquello que necesitas.
 
 ---
 
-## 8. GitHub Codespaces: programar desde el navegador
+## 7. Primero prueba el concepto aislado
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="72" alt="GitHub" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="72" alt="Visual Studio Code" />
-</p>
+Cuando quieres aprender algo nuevo, evita introducirlo inmediatamente en un programa grande.
 
-Otra herramienta interesante dentro del ecosistema de GitHub es **GitHub Codespaces**.
+Supón que quieres entender `ArrayList`.
 
-Codespaces permite crear un entorno de desarrollo alojado en la nube y trabajar desde el navegador utilizando un entorno similar a Visual Studio Code.
-
-Esto permite experimentar con proyectos sin depender completamente de la configuración local de una computadora.
-
-Documentación:
-
-<https://docs.github.com/en/codespaces>
-
-No sustituye necesariamente nuestro entorno local.
-
-Es otra herramienta que podemos utilizar cuando necesitamos:
-
-- probar un repositorio;
-- trabajar desde otra computadora;
-- evitar problemas de configuración inicial;
-- utilizar un entorno previamente preparado.
-
----
-
-## 9. Roadmaps: saber qué aprender después
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" alt="Spring" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker" />
-</p>
-
-Uno de los problemas del aprendizaje autodidacta es decidir:
-
-> **¿Qué estudio después?**
-
-Existen comunidades que construyen mapas de aprendizaje.
-
-Un ejemplo es:
-
-<https://roadmap.sh/>
-
-Ahí podemos encontrar rutas relacionadas con áreas como:
-
-```text
-Frontend
-Backend
-Java
-DevOps
-Git y GitHub
-Bases de datos
-Machine Learning
-Ciberseguridad
-Inteligencia Artificial
-```
-
-Un roadmap no debe interpretarse como una lista que debemos completar de principio a fin.
-
-Funciona mejor como un **mapa**.
-
-Nos permite saber:
-
-- dónde estamos;
-- qué conceptos existen;
-- cuáles se relacionan;
-- qué podríamos aprender después.
-
----
-
-## 10. Inteligencia Artificial como herramienta de aprendizaje
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/openai/412991" width="70" alt="OpenAI" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="70" alt="GitHub Copilot" />
-</p>
-
-Actualmente podemos utilizar asistentes de inteligencia artificial para aprender programación.
-
-Algunos ejemplos son:
-
-- ChatGPT;
-- GitHub Copilot;
-- asistentes integrados en IDE;
-- agentes de programación.
-
-Estas herramientas pueden:
-
-- explicar código;
-- generar ejemplos;
-- encontrar posibles errores;
-- comparar soluciones;
-- proponer ejercicios;
-- revisar código;
-- responder preguntas sobre un proyecto.
-
-Pero existe una diferencia enorme entre:
-
-```text
-Haz mi ejercicio.
-```
-
-y:
-
-```text
-Ayúdame a entender cómo resolver mi ejercicio.
-```
-
----
-
-## 11. Cómo utilizar IA sin dejar de aprender
-
-Una estrategia útil es pedir ayuda progresivamente.
-
-### Nivel 1 — Explicación
-
-```text
-Explícame qué concepto necesito entender para resolver este problema.
-No escribas todavía el código.
-```
-
-### Nivel 2 — Pista
-
-```text
-Dame una pista para continuar, pero no me des la solución completa.
-```
-
-### Nivel 3 — Revisión
-
-```text
-Este es mi código.
-Identifica el error y explícame por qué ocurre.
-```
-
-### Nivel 4 — Comparación
-
-```text
-Muéstrame dos formas de resolver este problema
-y explícame las diferencias.
-```
-
-### Nivel 5 — Evaluación
-
-```text
-Hazme cinco preguntas para comprobar
-si realmente entendí este tema.
-```
-
-### Nivel 6 — Transferencia
-
-```text
-Dame un ejercicio diferente que utilice
-el mismo concepto, pero en otro contexto.
-```
-
-La IA resulta mucho más útil para aprender cuando **nos obliga a pensar**.
-
----
-
-## 12. GitHub Copilot: IA dentro del flujo de desarrollo
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="90" alt="GitHub Copilot" />
-</p>
-
-GitHub Copilot lleva algunas capacidades de IA directamente al entorno de desarrollo.
-
-Dependiendo de la herramienta y del plan utilizado, puede proporcionar funciones como:
-
-- sugerencias de código;
-- chat sobre el proyecto;
-- asistencia para modificar código;
-- revisión de código;
-- análisis utilizando contexto del repositorio.
-
-Documentación:
-
-<https://docs.github.com/en/copilot>
-
-La recomendación sigue siendo la misma:
-
-> **Nunca aceptes automáticamente código que no puedas explicar.**
-
-Una sugerencia generada por IA puede ser correcta, parcialmente correcta o incorrecta para nuestro problema.
-
-El desarrollador sigue siendo responsable de comprender y validar el resultado.
-
----
-
-## 13. Copiar código no es necesariamente aprender
-
-Encontrar una solución en Internet puede resolver un problema inmediato.
-
-Pero debemos hacernos una pregunta:
-
-> **¿Podría reconstruir esta solución mañana sin verla?**
-
-Si la respuesta es no, probablemente todavía necesitamos trabajar con el concepto.
-
-Después de encontrar una solución podemos hacer tres cosas:
-
-### Modificarla
-
-Cambiar nombres, condiciones, datos o comportamiento.
-
-### Explicarla
-
-Describir qué hace cada parte.
-
-### Reconstruirla
-
-Cerrar la referencia e intentar escribir nuevamente la solución.
-
----
-
-## 14. La técnica del ejemplo mínimo
-
-Cuando un programa grande falla, investigar todo el programa al mismo tiempo puede resultar difícil.
-
-Podemos crear un programa más pequeño que reproduzca únicamente el problema.
-
-Por ejemplo, si tenemos dudas sobre `ArrayList`, no necesitamos probarlo inmediatamente dentro de un sistema completo.
-
-Podemos crear:
+Puedes comenzar con:
 
 ```java
 import java.util.ArrayList;
 
-public class PruebaLista {
+public class PruebaArrayList {
 
     public static void main(String[] args) {
 
@@ -542,19 +301,187 @@ public class PruebaLista {
 }
 ```
 
-Este programa tiene un solo objetivo:
+Este programa no intenta resolver un sistema completo.
 
-> entender cómo agregar elementos a una lista.
+Tiene un solo propósito:
+
+> **entender cómo crear una lista y agregar elementos.**
 
 A esto podemos llamarlo un **experimento mínimo**.
 
 ---
 
-## 15. El compilador también es una fuente de información
+## 8. Después modifica el experimento
 
-Cuando aparece un error, nuestra primera reacción no debería ser borrar código al azar.
+No te limites a ejecutar el código.
 
-Primero debemos leer.
+Experimenta.
+
+Por ejemplo:
+
+```java
+nombres.add("Carlos");
+```
+
+Después:
+
+```java
+nombres.remove("Ana");
+```
+
+Después:
+
+```java
+System.out.println(nombres.size());
+```
+
+Después:
+
+```java
+System.out.println(nombres.get(0));
+```
+
+Cada cambio debe responder una pregunta.
+
+```text
+¿Qué hace add()?
+¿Qué hace remove()?
+¿Qué devuelve size()?
+¿Qué ocurre con get(0)?
+```
+
+Aprender programación implica **probar hipótesis**.
+
+---
+
+## 9. Cambia valores para comprobar si realmente entiendes
+
+Observa:
+
+```java
+int edad = 18;
+
+if (edad >= 18) {
+    System.out.println("Mayor de edad");
+}
+```
+
+No te limites a ejecutar el ejemplo.
+
+Prueba:
+
+```java
+edad = 15;
+```
+
+Después:
+
+```java
+edad = 18;
+```
+
+Después:
+
+```java
+edad = 25;
+```
+
+Pregunta:
+
+```text
+¿Qué cambia?
+¿Por qué?
+¿Qué ocurre exactamente cuando edad vale 18?
+```
+
+Modificar datos es una de las formas más sencillas de verificar comprensión.
+
+---
+
+## 10. Aprende preguntando "¿qué pasa si...?"
+
+Cada vez que estudies Java, utiliza esta pregunta:
+
+> **¿Qué pasa si cambio esto?**
+
+Ejemplo:
+
+```java
+for (int i = 0; i < 5; i++) {
+    System.out.println(i);
+}
+```
+
+Prueba cambiar:
+
+```java
+i < 5
+```
+
+por:
+
+```java
+i <= 5
+```
+
+Después:
+
+```java
+i += 2
+```
+
+Después:
+
+```java
+int i = 1;
+```
+
+No memorices únicamente la estructura.
+
+Descubre cómo se comporta.
+
+---
+
+## 11. Aprende a leer el código antes de ejecutarlo
+
+Antes de presionar **Run**, intenta predecir qué ocurrirá.
+
+Por ejemplo:
+
+```java
+int numero = 3;
+
+while (numero > 0) {
+    System.out.println(numero);
+    numero--;
+}
+
+System.out.println("Fin");
+```
+
+Antes de ejecutarlo, pregúntate:
+
+```text
+¿Qué imprimirá primero?
+¿Cuántas veces se ejecutará el ciclo?
+¿Cuál será el valor final de numero?
+```
+
+Después ejecuta el programa.
+
+Si tu predicción fue incorrecta, acabas de encontrar algo que necesitas comprender mejor.
+
+---
+
+## 12. El compilador también te enseña Java
+
+Cuando Java muestra un error, no significa simplemente:
+
+```text
+"Está mal."
+```
+
+Significa que tienes información para investigar.
 
 Ejemplo:
 
@@ -562,471 +489,729 @@ Ejemplo:
 cannot find symbol
 ```
 
-Preguntas:
+Pregúntate:
 
 ```text
-¿Qué símbolo no encuentra?
+¿Qué símbolo no encontró?
 ¿Es una variable?
 ¿Es un método?
+¿Es una clase?
 ¿Está escrito correctamente?
-¿Existe dentro de este alcance?
+¿Existe en este alcance?
 ```
 
 Otro ejemplo:
 
 ```text
+';' expected
+```
+
+Otro:
+
+```text
+incompatible types
+```
+
+Otro:
+
+```text
+method ... cannot be applied to given types
+```
+
+El mensaje del compilador es una pista.
+
+**Léelo antes de modificar código al azar.**
+
+---
+
+## 13. Las excepciones también son información
+
+Tu programa puede compilar y aun así fallar durante la ejecución.
+
+Por ejemplo:
+
+```java
+String texto = "hola";
+int numero = Integer.parseInt(texto);
+```
+
+Esto puede producir:
+
+```text
 NumberFormatException
 ```
 
-Podemos investigar:
+No necesitas conocer de memoria esa excepción.
+
+Puedes investigarla:
 
 ```text
 Java NumberFormatException parseInt
 ```
 
-Un mensaje de error contiene pistas.
+Después crea un ejemplo mínimo.
 
-Aprender a leer errores es parte del aprendizaje autodidacta.
+```java
+public class PruebaConversion {
+
+    public static void main(String[] args) {
+
+        String texto = "123";
+
+        int numero = Integer.parseInt(texto);
+
+        System.out.println(numero);
+    }
+}
+```
+
+Después cambia:
+
+```java
+"123"
+```
+
+por:
+
+```java
+"hola"
+```
+
+Ahora puedes observar qué provoca el error.
 
 ---
 
-## 16. Stack Overflow, GitHub Issues y comunidades técnicas
+## 14. No copies código sin hacerle preguntas
+
+Encontrar código en Internet no es necesariamente malo.
+
+El problema aparece cuando haces esto:
+
+```text
+buscar
+↓
+copiar
+↓
+pegar
+↓
+funcionó
+↓
+terminé
+```
+
+En lugar de eso:
+
+```text
+buscar
+↓
+leer
+↓
+copiar o adaptar
+↓
+ejecutar
+↓
+modificar
+↓
+explicar
+↓
+reconstruir
+```
+
+Después de utilizar un ejemplo, deberías poder responder:
+
+```text
+¿Qué hace esta variable?
+¿Por qué existe este ciclo?
+¿Qué recibe este método?
+¿Qué devuelve?
+¿Qué pasa si elimino esta línea?
+¿Qué pasa si cambio esta condición?
+```
+
+---
+
+## 15. Reconstruye el código sin mirar
+
+Después de comprender un ejemplo, ciérralo.
+
+Intenta escribirlo nuevamente.
+
+Por ejemplo, después de practicar:
+
+```java
+ArrayList<String> tareas = new ArrayList<>();
+tareas.add("Estudiar Java");
+```
+
+cierra el ejemplo.
+
+Ahora intenta reconstruirlo.
+
+Si no recuerdas la sintaxis exacta, no pasa nada.
+
+Investiga únicamente la parte que olvidaste.
+
+Así comienzas a distinguir entre:
+
+```text
+"No recuerdo la sintaxis."
+```
+
+y:
+
+```text
+"No entiendo el concepto."
+```
+
+Son problemas diferentes.
+
+---
+
+## 16. Utiliza inteligencia artificial para aprender Java
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="72" alt="Stack Overflow" />
+  <img src="https://cdn.simpleicons.org/openai/412991" width="72" alt="OpenAI" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="72" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="72" alt="GitHub Copilot" />
 </p>
 
-Muchos problemas que encontramos ya fueron encontrados por otras personas.
+Una inteligencia artificial puede ayudarte a estudiar Java.
 
-Los foros y comunidades permiten observar:
+Pero la forma en que preguntas cambia lo que aprendes.
 
-- preguntas;
-- respuestas;
-- discusiones;
-- errores comunes;
-- alternativas;
-- decisiones de diseño.
-
-Dos fuentes muy importantes son:
-
-- <https://stackoverflow.com/>
-- GitHub Issues dentro de los repositorios de cada proyecto.
-
-Sin embargo, debemos observar siempre:
+### Poco útil para aprender
 
 ```text
-fecha
-versión
-contexto
-tecnología utilizada
+Haz este programa.
 ```
 
-Una solución correcta hace cinco años puede no ser la mejor solución actualmente.
+### Mejor
+
+```text
+Estoy aprendiendo ciclos en Java.
+No me des la solución completa.
+Explícame qué debo revisar para construir un menú que se repita.
+```
+
+### Mejor todavía
+
+```text
+Este es mi código Java.
+El menú debería terminar cuando el usuario escriba 4.
+No me des un programa nuevo.
+Ayúdame a identificar qué parte de mi condición está causando el problema.
+```
+
+La IA debe ayudarte a **pensar**, no reemplazar tu pensamiento.
 
 ---
 
-## 17. Aprender explorando repositorios
+## 17. Puedes pedir ayuda por niveles
 
-GitHub contiene millones de proyectos públicos.
+Cuando estés bloqueado, no necesitas pedir inmediatamente la solución completa.
 
-Podemos utilizarlos como material de estudio.
-
-Cuando encontremos un proyecto interesante podemos investigar:
+### Nivel 1 — Concepto
 
 ```text
-README.md
-estructura de carpetas
-dependencias
-clases
-commits
-issues
-pull requests
+¿Qué concepto de Java necesito para resolver este problema?
 ```
 
-No necesitamos entender un proyecto completo.
+### Nivel 2 — Explicación
 
-Podemos explorar una pregunta concreta:
+```text
+Explícame ese concepto con un ejemplo pequeño.
+```
 
-> ¿Cómo organizó este proyecto sus clases?
+### Nivel 3 — Pista
 
-o:
+```text
+Dame una pista, pero no escribas todavía la solución.
+```
 
-> ¿Cómo manejan los errores?
+### Nivel 4 — Revisión
 
-o:
+```text
+Revisa mi código y dime dónde está el problema.
+```
 
-> ¿Cómo documentan sus métodos?
+### Nivel 5 — Comparación
 
-Explorar proyectos reales nos permite observar patrones que normalmente no aparecen en ejercicios pequeños.
+```text
+Muéstrame dos formas de resolverlo y explícame la diferencia.
+```
+
+### Nivel 6 — Evaluación
+
+```text
+Hazme preguntas para comprobar si realmente lo entendí.
+```
 
 ---
 
-## 18. Commits como diario de aprendizaje
+## 18. Aprende a reconocer qué tipo de problema tienes
 
-Git permite registrar cambios.
+Cuando algo no funciona, intenta clasificarlo.
 
-En lugar de realizar un único commit como:
+### Problema de sintaxis
 
-```text
-proyecto terminado
+Ejemplo:
+
+```java
+System.out.println("Hola")
 ```
 
-podemos registrar nuestro proceso:
+### Problema de lógica
 
-```text
-feat: agrega lectura de datos
+El programa compila, pero hace algo diferente a lo esperado.
 
-feat: agrega validación de edad
+### Problema de tipo de dato
 
-fix: corrige condición del descuento
+Ejemplo:
 
-refactor: separa cálculo en un método
-
-docs: explica funcionamiento en README
+```java
+int edad = "20";
 ```
 
-Los commits cuentan la historia de cómo evolucionó una solución.
+### Problema de entrada
 
-Esto también permite observar nuestro propio aprendizaje.
+Ejemplo:
 
----
-
-## 19. El protocolo de desbloqueo
-
-Cuando quedemos atrapados con un problema podemos seguir este protocolo:
-
-```text
-1. Leer el error.
-2. Identificar qué esperaba que ocurriera.
-3. Identificar qué ocurrió realmente.
-4. Localizar la parte mínima relacionada con el problema.
-5. Crear una búsqueda específica.
-6. Consultar documentación o ejemplos.
-7. Crear un experimento pequeño.
-8. Probar una modificación.
-9. Consultar IA si seguimos bloqueados.
-10. Pedir ayuda mostrando lo que ya intentamos.
+```java
+Scanner
+nextInt()
+nextLine()
 ```
 
-Una buena pregunta a un tutor podría ser:
+### Problema de alcance
 
-> Estoy intentando repetir un menú utilizando `do-while`.  
-> El menú se muestra correctamente, pero cuando selecciono la opción 4 no termina.  
-> Revisé la condición y probé cambiar `==` por `!=`, pero sigo obteniendo el mismo comportamiento.  
-> Este es el fragmento de código relacionado.
+Una variable existe dentro de un bloque, pero intentas utilizarla fuera.
 
-Esto permite recibir ayuda mucho más rápidamente que simplemente decir:
-
-> "No funciona."
-
----
-
-## 20. La regla: aprender haciendo algo
-
-Leer sobre una tecnología produce familiaridad.
-
-Utilizarla produce experiencia.
-
-Por eso cada concepto nuevo debería terminar con algo que podamos construir.
+### Problema de ejecución
 
 Ejemplo:
 
 ```text
-Concepto: ArrayList
+NumberFormatException
+NullPointerException
+IndexOutOfBoundsException
 ```
 
-No terminar en:
-
-```text
-"Ya leí qué es ArrayList."
-```
-
-Terminar en:
-
-```text
-"Puedo crear una lista, agregar datos,
-eliminar elementos y recorrerla."
-```
+Saber qué tipo de problema tienes hace que investigar sea mucho más fácil.
 
 ---
 
-# Actividad práctica: aprender algo que todavía no hemos estudiado
+## 19. El protocolo de desbloqueo para Java
 
-Durante esta actividad no habrá una explicación previa completa del tema.
+Cuando te quedes atascado, prueba este orden:
 
-El objetivo es practicar el proceso de aprendizaje.
+```text
+1. Lee el mensaje de error completo.
+2. Identifica qué esperabas que ocurriera.
+3. Observa qué ocurrió realmente.
+4. Localiza la línea o bloque relacionado.
+5. Reduce el problema.
+6. Busca "Java + concepto + problema".
+7. Consulta documentación o ejemplos.
+8. Crea un programa mínimo.
+9. Modifica una sola cosa.
+10. Vuelve a ejecutar.
+11. Pide una pista si sigues bloqueado.
+12. Explica qué intentaste.
+```
+
+No necesitas hacer siempre los doce pasos.
+
+El objetivo es evitar:
+
+```text
+"No funciona."
+```
+
+y convertirlo en:
+
+```text
+"Mi programa compila, pero el do-while no termina cuando escribo 4.
+Revisé la condición y probé cambiar == por !=.
+Creo que el problema está en esta línea."
+```
+
+Eso es una pregunta técnica mucho mejor.
+
+---
+
+## 20. Aprende Java por capas
+
+No intentes dominar todo al mismo tiempo.
+
+Puedes avanzar por capas:
+
+```text
+Sintaxis
+↓
+Variables y tipos
+↓
+Operadores
+↓
+Condicionales
+↓
+Ciclos
+↓
+Métodos
+↓
+Arreglos
+↓
+Clases y objetos
+↓
+Herencia y composición
+↓
+Colecciones
+↓
+Excepciones
+↓
+Archivos
+↓
+Pruebas
+↓
+Frameworks
+```
+
+Cada concepto nuevo se apoya en conceptos anteriores.
+
+Si algo se vuelve demasiado difícil, revisa qué conocimiento previo está faltando.
+
+---
+
+# Actividad práctica: aprender `ArrayList` por tu cuenta
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="90" alt="Java" />
+</p>
+
+En esta actividad no recibirás primero una explicación completa de `ArrayList`.
+
+Tu objetivo es practicar el proceso de aprendizaje.
 
 ## Reto
 
-Investiga cómo funciona `ArrayList` en Java.
+Investiga cómo utilizar:
+
+```java
+ArrayList
+```
 
 Debes descubrir cómo:
 
 ```text
-1. Crear un ArrayList.
-2. Agregar elementos.
-3. Mostrar todos sus elementos.
-4. Eliminar un elemento.
-5. Obtener el número de elementos.
+1. Importar ArrayList.
+2. Crear una lista de String.
+3. Agregar elementos.
+4. Mostrar todos los elementos.
+5. Obtener un elemento.
+6. Eliminar un elemento.
+7. Conocer el tamaño de la lista.
+8. Recorrerla con un ciclo.
 ```
 
 Puedes utilizar:
 
-- documentación;
-- buscadores;
-- GitHub;
-- Stack Overflow;
-- inteligencia artificial;
-- compañeros;
-- tutor.
+```text
+Documentación de Java
+Buscadores
+Stack Overflow
+Inteligencia artificial
+Ejemplos
+Compañeros
+Tutor
+```
 
-### Restricción
+### Regla
 
-No basta con encontrar código.
-
-Debes poder explicar qué hace.
+> **No basta con que el código funcione. Debes poder explicar por qué funciona.**
 
 ---
 
-## Producto de la actividad
+# Producto: Lista de tareas en Java
 
-Crear un pequeño programa:
+Crea:
 
 ```text
 ListaDeTareas.java
 ```
 
-El programa debe permitir almacenar varias tareas.
+El programa debe almacenar tareas utilizando `ArrayList`.
 
-Ejemplo:
+Primera versión:
 
 ```text
 === MIS TAREAS ===
 
 1. Estudiar Java
-2. Terminar práctica
-3. Revisar GitHub
+2. Realizar práctica
+3. Revisar ejercicios
 
-Total de tareas: 3
+Total: 3
 ```
 
-No importa si la primera versión es muy sencilla.
+Después intenta agregar:
 
-El objetivo principal es **descubrir cómo aprender una herramienta nueva**.
+```text
+Agregar tarea
+Eliminar tarea
+Mostrar tareas
+Salir
+```
+
+No importa si no completas todo.
+
+Lo importante es identificar:
+
+```text
+qué pudiste resolver;
+qué tuviste que investigar;
+qué error apareció;
+cómo lo resolviste;
+qué necesitas aprender después.
+```
 
 ---
 
-# Documentar el aprendizaje
+# Segundo reto: aprende un método nuevo de `String`
 
-Después de realizar el ejercicio, crea un archivo:
+Selecciona uno que todavía no utilices regularmente.
+
+Por ejemplo:
+
+```java
+contains()
+startsWith()
+endsWith()
+substring()
+replace()
+trim()
+isEmpty()
+```
+
+Tu reto es:
+
+```text
+1. Descubrir qué hace.
+2. Crear un ejemplo mínimo.
+3. Probarlo con diferentes valores.
+4. Explicarlo con tus propias palabras.
+5. Utilizarlo en un pequeño programa.
+```
+
+---
+
+# Tercer reto: aprende una excepción
+
+Investiga una de estas excepciones:
+
+```text
+NumberFormatException
+NullPointerException
+IndexOutOfBoundsException
+ArithmeticException
+```
+
+Debes responder:
+
+```text
+¿Cuándo puede ocurrir?
+¿Cómo puedo provocar el error intencionalmente?
+¿Qué mensaje aparece?
+¿Cómo puedo evitarlo?
+```
+
+No necesitas memorizar la excepción.
+
+Necesitas aprender a investigarla.
+
+---
+
+# Documenta lo que aprendiste
+
+Crea:
 
 ```text
 APRENDIZAJE.md
 ```
 
-Responde:
+Y responde:
 
 ```markdown
-# Lo que aprendí
+# Lo que aprendí de Java
 
-## ¿Qué era nuevo para mí?
+## ¿Qué concepto investigué?
 
-## ¿Qué fuente utilicé primero?
+## ¿Qué quería lograr?
 
-## ¿Qué búsqueda me funcionó mejor?
+## ¿Qué no entendía al principio?
 
-## ¿Qué error encontré?
+## ¿Qué búsqueda utilicé?
+
+## ¿Qué ejemplo mínimo construí?
+
+## ¿Qué error apareció?
 
 ## ¿Cómo lo resolví?
 
 ## ¿Qué puedo hacer ahora que antes no podía?
 
-## ¿Qué necesito investigar después?
+## ¿Qué quiero aprender después?
 ```
 
 ---
 
-# Construir nuestro sistema personal de aprendizaje
+# GitHub como bitácora de tu aprendizaje de Java
 
-Cada estudiante puede comenzar a construir su propia estrategia.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80" alt="GitHub" />
+</p>
 
-Una posible estructura sería:
+GitHub no es el tema principal de esta sesión.
+
+Pero puede ayudarte a guardar evidencia de tu progreso.
+
+Una estructura posible:
 
 ```text
-OBJETIVO
-   ↓
-CONCEPTO
-   ↓
-DOCUMENTACIÓN
-   ↓
-EJEMPLO
-   ↓
-EXPERIMENTO
-   ↓
-ERROR
-   ↓
-INVESTIGACIÓN
-   ↓
-SOLUCIÓN
-   ↓
-PROYECTO
-   ↓
-DOCUMENTACIÓN PERSONAL
+java-learning/
+│
+├── variables/
+├── condicionales/
+├── ciclos/
+├── metodos/
+├── arreglos/
+├── poo/
+├── arraylist/
+├── excepciones/
+└── README.md
 ```
 
-No existe un único método correcto.
+Cada carpeta puede contener pequeños experimentos.
 
-El objetivo es descubrir qué combinación funciona mejor para nosotros.
-
----
-
-# Kit inicial para aprender tecnología
-
-Herramientas que vale la pena conocer:
-
-| Herramienta | Para qué puede servir |
-|---|---|
-| Google / buscadores | Encontrar documentación, errores y ejemplos |
-| Documentación oficial | Confirmar cómo funciona una tecnología |
-| Git | Registrar y recuperar cambios |
-| GitHub | Repositorios, proyectos, issues y colaboración |
-| Markdown | Documentar proyectos y aprendizaje |
-| GitHub Codespaces | Crear entornos de desarrollo en la nube |
-| roadmap.sh | Explorar rutas de aprendizaje |
-| Stack Overflow | Consultar problemas técnicos concretos |
-| ChatGPT | Explicación, análisis, ejercicios y retroalimentación |
-| GitHub Copilot | Asistencia de programación dentro del flujo de desarrollo |
+Con el tiempo tendrás un repositorio que muestra **cómo aprendiste Java**, no solamente proyectos terminados.
 
 ---
 
-# Regla de oro para utilizar herramientas
+# Recursos para aprender Java
 
-Una herramienta es útil cuando aumenta nuestra capacidad.
+## Documentación oficial
 
-Es perjudicial para el aprendizaje cuando reemplaza completamente nuestro razonamiento.
+<https://docs.oracle.com/en/java/>
 
-Antes de aceptar una solución encontrada o generada, debemos poder responder:
+## Java Tutorials
+
+<https://docs.oracle.com/javase/tutorial/>
+
+## Stack Overflow
+
+<https://stackoverflow.com/>
+
+## Roadmap de Java
+
+<https://roadmap.sh/java>
+
+## GitHub
+
+<https://github.com/>
+
+---
+
+# Regla de oro
+
+Antes de aceptar una solución encontrada o generada, pregúntate:
 
 ```text
-¿Qué hace?
-¿Por qué funciona?
-¿Qué cambiaría si modifico esta parte?
-¿Podría explicárselo a otra persona?
+¿Entiendo qué hace?
+¿Entiendo por qué funciona?
+¿Puedo modificarla?
+¿Puedo explicarla?
+¿Puedo volver a construirla?
+¿Puedo utilizar el mismo concepto en otro problema?
 ```
 
-Si no podemos responder, todavía tenemos algo que aprender.
+Si la respuesta es sí, probablemente estás aprendiendo.
+
+Si la respuesta es no, todavía tienes algo que investigar.
 
 ---
 
 # Reto para continuar después de la sesión
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" alt="GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="48" alt="JUnit" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="48" alt="Maven" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
-</p>
-
-Elige una tecnología que todavía no conozcas.
+Elige **un concepto de Java que todavía no conozcas**.
 
 Algunas opciones:
 
 ```text
 ArrayList
-Git Branches
-GitHub Actions
+HashMap
+HashSet
+try-catch
+Excepciones personalizadas
+Lectura de archivos
+Interfaces
+Clases abstractas
+Enums
+Generics
+Streams
+Lambdas
 JUnit
 Maven
-APIs REST
-JSON
-Docker
 Spring Boot
-SQL
-JavaScript
-Python
 ```
 
-Investiga durante un periodo corto.
+No intentes dominarlo.
 
-No intentes dominarla.
-
-Tu objetivo será responder:
+Tu objetivo inicial será responder:
 
 ```text
 ¿Qué es?
 ¿Qué problema resuelve?
-¿Cómo se utiliza?
-¿Cuál es el ejemplo más pequeño que puedo construir?
-¿Qué necesito aprender después?
+¿Cuál es el ejemplo más pequeño que puedo crear?
+¿Qué métodos o instrucciones básicas necesito?
+¿Qué error puedo encontrar?
+¿Dónde está su documentación?
+¿Qué podría construir con esto?
 ```
 
-Después crea una carpeta dentro de tu repositorio:
-
-```text
-exploraciones/
-```
-
-Ejemplo:
-
-```text
-exploraciones/
-│
-├── arraylist/
-│   └── README.md
-│
-├── junit/
-│   └── README.md
-│
-└── docker/
-    └── README.md
-```
-
-Con el tiempo, este repositorio puede convertirse en un registro real de tu crecimiento como desarrollador.
+Después crea un pequeño programa.
 
 ---
 
 # Cierre
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leer-Investigar-7C3AED?style=for-the-badge" alt="Leer e investigar" />
-  <img src="https://img.shields.io/badge/Probar-Equivocarse-EA580C?style=for-the-badge" alt="Probar y equivocarse" />
-  <img src="https://img.shields.io/badge/Corregir-Aprender-16A34A?style=for-the-badge" alt="Corregir y aprender" />
+  <img src="https://img.shields.io/badge/Leer-Entender-7C3AED?style=for-the-badge" alt="Leer y entender" />
+  <img src="https://img.shields.io/badge/Programar-Probar-EA580C?style=for-the-badge" alt="Programar y probar" />
+  <img src="https://img.shields.io/badge/Equivocarse-Corregir-DC2626?style=for-the-badge" alt="Equivocarse y corregir" />
+  <img src="https://img.shields.io/badge/Explicar-Aprender-16A34A?style=for-the-badge" alt="Explicar y aprender" />
 </p>
 
-La tecnología que utilizamos hoy probablemente cambiará.
+No necesitas conocer todo Java.
 
-Las herramientas que aprenderemos mañana todavía pueden no existir.
+Tampoco necesitas recordar de memoria cada método disponible.
 
-Por eso una de las habilidades más valiosas que podemos desarrollar es:
+Lo que necesitas desarrollar es la capacidad de decir:
 
-> **la capacidad de enfrentarnos a algo que no conocemos y descubrir cómo aprenderlo.**
+> **"Esto todavía no sé hacerlo, pero sé cómo empezar a aprenderlo."**
 
-No necesitamos saberlo todo.
+Esa capacidad será útil no solamente en este curso.
 
-Necesitamos aprender a avanzar cuando todavía no sabemos la respuesta.
+Será útil cada vez que aparezca:
 
----
-
-## Recursos
-
-- Java Documentation: <https://docs.oracle.com/en/java/>
-- Git Documentation: <https://git-scm.com/doc>
-- GitHub Docs: <https://docs.github.com/>
-- GitHub Codespaces: <https://docs.github.com/en/codespaces>
-- GitHub Copilot: <https://docs.github.com/en/copilot>
-- roadmap.sh: <https://roadmap.sh/>
-- Stack Overflow: <https://stackoverflow.com/>
+```text
+una nueva clase;
+una nueva biblioteca;
+un nuevo framework;
+un error que nunca habías visto;
+una nueva versión de Java;
+una tecnología que todavía no existe.
+```
 
 ---
 
 ## Pregunta final
 
-> **Cuando aparezca mañana una tecnología que nunca has utilizado, ¿qué harás primero?**
+> **Si mañana necesitas utilizar una característica de Java que nunca has visto, ¿qué harás primero?**
