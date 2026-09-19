@@ -1,5 +1,23 @@
 # Sesión especial: Aprender a aprender tecnología
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="64" height="64" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" height="64" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" height="64" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="64" height="64" alt="Markdown" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" height="64" alt="Visual Studio Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Objetivo-Aprender_a_aprender-6C63FF?style=for-the-badge" alt="Aprender a aprender" />
+  <img src="https://img.shields.io/badge/Modalidad-Práctica-2563EB?style=for-the-badge" alt="Modalidad práctica" />
+  <img src="https://img.shields.io/badge/Lenguaje-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
 > **Objetivo de la sesión:** desarrollar una estrategia personal para aprender nuevas tecnologías de manera autónoma, crítica y práctica.
 
 Esta sesión no busca enseñar una nueva instrucción de Java ni completar una unidad específica del curso. El propósito es aprender **qué hacer cuando aparece una tecnología, herramienta o concepto que todavía no conocemos**.
@@ -179,6 +197,10 @@ Debemos aprender a **encontrar la sección que necesitamos**.
 
 ## 6. GitHub no es solamente un lugar para guardar código
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="90" alt="GitHub" />
+</p>
+
 GitHub puede convertirse en una herramienta de aprendizaje.
 
 Un repositorio permite almacenar:
@@ -218,6 +240,10 @@ Cada carpeta puede contener ejercicios y pequeños experimentos.
 ---
 
 ## 7. Markdown: documentar también es aprender
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="100" alt="Markdown" />
+</p>
 
 Este archivo está escrito en **Markdown**.
 
@@ -265,6 +291,12 @@ Por eso:
 
 ## 8. GitHub Codespaces: programar desde el navegador
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="72" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="72" alt="Visual Studio Code" />
+</p>
+
 Otra herramienta interesante dentro del ecosistema de GitHub es **GitHub Codespaces**.
 
 Codespaces permite crear un entorno de desarrollo alojado en la nube y trabajar desde el navegador utilizando un entorno similar a Visual Studio Code.
@@ -287,6 +319,18 @@ Es otra herramienta que podemos utilizar cuando necesitamos:
 ---
 
 ## 9. Roadmaps: saber qué aprender después
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" alt="Spring" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker" />
+</p>
 
 Uno de los problemas del aprendizaje autodidacta es decidir:
 
@@ -326,6 +370,12 @@ Nos permite saber:
 ---
 
 ## 10. Inteligencia Artificial como herramienta de aprendizaje
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/openai/412991" width="70" alt="OpenAI" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="70" alt="GitHub Copilot" />
+</p>
 
 Actualmente podemos utilizar asistentes de inteligencia artificial para aprender programación.
 
@@ -410,6 +460,10 @@ La IA resulta mucho más útil para aprender cuando **nos obliga a pensar**.
 ---
 
 ## 12. GitHub Copilot: IA dentro del flujo de desarrollo
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="90" alt="GitHub Copilot" />
+</p>
 
 GitHub Copilot lleva algunas capacidades de IA directamente al entorno de desarrollo.
 
@@ -537,6 +591,12 @@ Aprender a leer errores es parte del aprendizaje autodidacta.
 ---
 
 ## 16. Stack Overflow, GitHub Issues y comunidades técnicas
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="72" alt="Stack Overflow" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="72" alt="GitHub" />
+</p>
 
 Muchos problemas que encontramos ya fueron encontrados por otras personas.
 
@@ -862,6 +922,19 @@ Si no podemos responder, todavía tenemos algo que aprender.
 
 # Reto para continuar después de la sesión
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="48" alt="JUnit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="48" alt="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
+</p>
+
 Elige una tecnología que todavía no conozcas.
 
 Algunas opciones:
@@ -921,6 +994,12 @@ Con el tiempo, este repositorio puede convertirse en un registro real de tu crec
 ---
 
 # Cierre
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Leer-Investigar-7C3AED?style=for-the-badge" alt="Leer e investigar" />
+  <img src="https://img.shields.io/badge/Probar-Equivocarse-EA580C?style=for-the-badge" alt="Probar y equivocarse" />
+  <img src="https://img.shields.io/badge/Corregir-Aprender-16A34A?style=for-the-badge" alt="Corregir y aprender" />
+</p>
 
 La tecnología que utilizamos hoy probablemente cambiará.
 
